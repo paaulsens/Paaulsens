@@ -1,0 +1,33 @@
+body{
+    background-color: #202020;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
+}
+
+.greytext{
+    color: rgba(255, 255, 255, 0.425)
+  }
+
+.yellowtext{
+    color: #f2c112;
+}
+
+.whitetext{
+  color: #ffffff;
+}
+
+.yellowtextopaque{
+  color: #f2c1126a;
+}
+
+.yellowlink{
+    color: #f2c1126a;
+}
+  
+    .yellowlink:hover{
+      color: #f2c112;
+    }
+  
+.text-align-center{
+  text-align: center;
+}
+  

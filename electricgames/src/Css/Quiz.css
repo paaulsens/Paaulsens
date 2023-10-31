@@ -1,0 +1,62 @@
+/* Quiz Styling */
+
+.quizInfo{
+    grid-column: auto / span 12;
+    justify-self: center;
+    max-width: 900px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+  .quizInfo_h1{
+    color: #F2C112;
+    font-size: 46px;
+    margin-top: 40px;
+    grid-column: auto / span 12;
+  }
+
+  .quizInfo_p{
+    grid-column: auto / span 12;
+    font-size: 26px;
+    margin-bottom: 25px;
+  }
+
+  .quizQuestion_h2{
+    grid-column: auto / span 12;
+    margin-top: 0px;
+  }
+
+.quiz-options{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  justify-content: space-around;
+  text-align: center;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+  
+.quizImage{
+  grid-column: auto / span 12;
+  justify-self: center;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.correctCounter_p{
+  grid-column: auto / span 12;
+  font-size: 20px;
+  color: #a2a2a2;
+}
+  
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 930px) {
+  
+  .quiz-options{
+    padding-left: 0px;
+    padding-right: 0px;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+}

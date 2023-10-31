@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Advanced_Warfare.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Advanced_Warfare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Amongus.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Amongus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Black_Flag.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Black_Flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Brotherhood.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Brotherhood.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Mirage.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Mirage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Odyssey.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Odyssey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Origins.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Origins.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Revelations.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Revelations.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Rogue.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Rogue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Syndicate.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Syndicate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Unity.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Unity.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Assassins_Creed_Valhalla.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Assassins_Creed_Valhalla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\BioShock.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\BioShock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Black_Ops_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Black_Ops_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Black_Ops_Cold_War.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Black_Ops_Cold_War.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Bloodborne.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Bloodborne.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Borderlands.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Borderlands.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Borderlands_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Borderlands_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Borderlands_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Borderlands_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Borderlands_The_Pre-Sequel.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Borderlands_The_Pre-Sequel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\CS_GO.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\CS_GO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\CS_Source.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\CS_Source.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\CS_Zero.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\CS_Zero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_2003.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_2003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_4_Modern_Warfare.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_4_Modern_Warfare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Black_Ops_4.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Black_Ops_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Black_Ops_II.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Black_Ops_II.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Black_Ops_II_cover.png",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Black_Ops_II_cover.png"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Infinite_Warfare.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Infinite_Warfare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Modern_Warfare_2019.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Modern_Warfare_2019.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Modern_Warfare_2_2009.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Modern_Warfare_2_2009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Modern_Warfare_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Modern_Warfare_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Call_of_Duty_Modern_Warfare_II.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Call_of_Duty_Modern_Warfare_II.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Civilization_VI.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Civilization_VI.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\CoD_Black_Ops.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\CoD_Black_Ops.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Dark_Souls.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Dark_Souls.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Dark_Souls_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Dark_Souls_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Dark_Souls_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Dark_Souls_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Dying_Light.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Dying_Light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Dying_Light_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Dying_Light_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Dying_Light_The_Following.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Dying_Light_The_Following.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Elden_Ring.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Elden_Ring.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\FIFA_19.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\FIFA_19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\FIFA_20.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\FIFA_20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\FIFA_21.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\FIFA_21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\FIFA_22.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\FIFA_22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\FIFA_23.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\FIFA_23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Fall_Guys.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Fall_Guys.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Fallout_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Fallout_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Fallout_4.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Fallout_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Far_Cry.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Far_Cry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Far_Cry_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Far_Cry_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Far_Cry_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Far_Cry_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Far_Cry_4.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Far_Cry_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Far_Cry_5.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Far_Cry_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Far_Cry_6.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Far_Cry_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Horizon.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Horizon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Horizon_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Horizon_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Horizon_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Horizon_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Horizon_4.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Horizon_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Horizon_5.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Horizon_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Motorsport.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Motorsport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Motorsport_6.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Motorsport_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Forza_Motorsport_7.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Forza_Motorsport_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\GTA_IV.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\GTA_IV.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\GTA_San_Andreas.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\GTA_San_Andreas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\GTA_V.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\GTA_V.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Ghost_of_Tsushima.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Ghost_of_Tsushima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\God_Of_War_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\God_Of_War_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\God_Of_War_2005.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\God_Of_War_2005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\God_Of_War_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\God_Of_War_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\God_of_War_2018.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\God_of_War_2018.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\God_of_War_Ragnarok.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\God_of_War_Ragnarok.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Gran_Turismo_7.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Gran_Turismo_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Grand_Theft_Auto_V.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Grand_Theft_Auto_V.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Halo_Infinite.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Halo_Infinite.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Halo_Reach.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Halo_Reach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Horizon_Forbidden_Wesfffft.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Horizon_Forbidden_Wesfffft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Horizon_Forbidden_West.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Horizon_Forbidden_West.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Horizon_Zero_Dawn.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Horizon_Zero_Dawn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Mario_Plus_Rabbids_Sparks_of_Hope.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Mario_Plus_Rabbids_Sparks_of_Hope.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Minecraft.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Minecraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Overwatch.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Overwatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Overwatch_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Overwatch_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Pokemon_Legends_Arceus.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Pokemon_Legends_Arceus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Red_Dead_Redemption.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Red_Dead_Redemption.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Red_Dead_Redemption_II.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Red_Dead_Redemption_II.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Rocket_League.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Rocket_League.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Skate.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Skate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Skate_2.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Skate_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\Skate_3.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\Skate_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_BFA.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_BFA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_Cata.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_Cata.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_Dragonflight.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_Dragonflight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_Legion.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_Legion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_MoP.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_MoP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_Shadowlands.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_Shadowlands.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_TBC.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_TBC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_WoD.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_WoD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\images\\games\\WoW_WotLK.jpg",
+      "PackagePath": "staticwebassets\\images\\games\\WoW_WotLK.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\nikko\\OneDrive\\Desktop\\eksamen-web-2022\\ElectricGamesApi\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ElectricGamesApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ElectricGamesApi.props",
+      "PackagePath": "build\\ElectricGamesApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ElectricGamesApi.props",
+      "PackagePath": "buildMultiTargeting\\ElectricGamesApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ElectricGamesApi.props",
+      "PackagePath": "buildTransitive\\ElectricGamesApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

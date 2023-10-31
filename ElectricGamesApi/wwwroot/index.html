@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <script defer src="/script.js"></script>
+    <title>ElectricGames API</title>
+    
+</head>
+
+    <body>
+
+        <header>
+            <h1 class="whitetext">
+                <span class="yellowtext">Electric</span><span class="greytext">Games</span> API
+            </h1>
+        </header>
+
+        <main>
+
+            <section>
+                <h3 class="greytext">This is index page. Here you will get a quick introduction on how to use the API. </h3>
+            </section>
+
+            <br>
+
+            <section class="endpoints">
+                     <h4 class="greytext">Endpoints (with links):</h4>
+                <ul>
+                    <li class="greytext"><a class="yellowlink" href="http://localhost:5137">http://localhost:5137</a> <-- you are here</li>
+            
+                    <li class="greytext">http://localhost:5137<a class="yellowlink" href="http://localhost:5137/game">/game</a></li>
+                    <li class="greytext">http://localhost:5137<a class="yellowlink" href="http://localhost:5137/game/103">/game/103</a></li>
+                    <li class="greytext">http://localhost:5137<a class="yellowlink" href="http://localhost:5137/game/GetByTitle/Minecraft">/game/GetByTitle/Minecraft</a></li>
+                </ul>
+            </section>
+
+            <br>
+
+            <section class="endpoints">
+                <h4 class="greytext">How to use:</h4>
+                <ol>
+                    <li class="greytext">You navigate though the APIs endpoints using the address bar in your browser.</li>
+                    <li class="greytext">The domain of the API is <span class="yellowtextopaque">http://localhost:5137</span> .</li>
+                    <li class="greytext">If you wish to view all records stored in API, enter the domain followed with <span class="yellowtextopaque">/game</span> ( you can test this out by clicking the respective link above ). </li>
+                    <li class="greytext">The different endpoints allow you to filter the results and access different records based on the url entered in the address bar.</li>
+                    <li class="greytext">Just like the <span class="yellowtextopaque">/game</span> shows all records, you can filter the records to a specific id with <span class="yellowtextopaque">/game/27</span> (if the id is 27).</li>
+                    <li class="greytext">Likewise you can fetch all records that contain a string by using <span class="yellowtextopaque">/game/GetByTitle/Minecraft</span> (if the Title is Minecraft).</li>
+                    <li class="greytext">The browser will auto detect whitespace (spaces) in the title and replace them with '&20' meaning that both <span class="yellowtextopaque">/game/GetByTitle/Call&20of&20Duty</span> and <span class="yellowtextopaque">/game/GetByTitle/Call of Duty</span>  will return the same records.</li>
+                </ol>
+            </section>
+
+            <br>
+
+            <p class="greytext"> Enjoy your stay, and keep gaming! 
+                <br><em>- ElectricGames</em>
+            </p>
+
+        </main>
+
+        
+
+        
+    </body>
+
+</html>

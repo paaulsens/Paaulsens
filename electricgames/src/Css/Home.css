@@ -1,0 +1,130 @@
+/* Grid system */
+
+.grid-container {
+  margin-top: 30px;
+  display: grid;
+  grid-template:
+      'newest newest newest newest coming coming'
+      'newest newest newest newest coming coming'
+      'newest newest newest newest quiz quiz';
+  grid-gap: 50px;
+  background-color: #202020;
+  min-width: 800px;
+  padding: 20px;
+  justify-content: center;
+}
+
+  .grid-container > div {
+    background-color: #151515;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+    border-radius: 15px;
+  }
+
+.item1 { 
+    grid-area: newest; 
+      min-width: 700px;
+      max-height: 450px;
+      display: grid;
+      justify-content: center;
+      overflow: auto;
+}
+
+.item2 { 
+    grid-area: coming; 
+      min-width: 500px;
+      min-height: 300px;
+      max-height: 300px;
+      display: grid;
+      justify-content: center;
+}
+
+.item3 { 
+    grid-area: quiz; 
+      min-width: 500px;
+      max-height: 50px;
+      line-height: 0;
+      padding: 0px;
+}
+
+
+.homecontent{
+  grid-column: auto / span 12;  
+}
+
+  .newest-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 20px;
+  }
+
+  .coming-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 20px;
+  }
+
+.box{
+  display: grid;
+  justify-content: center;
+}
+
+p{
+  margin: 0
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1275px) {
+
+  .grid-container {
+    grid-template:
+        'newest newest newest newest newest newest'
+        'coming coming coming coming coming coming'
+        'quiz quiz quiz quiz quiz quiz'
+  }
+
+}
+
+@media screen and (max-width: 750px) {
+  
+  .newest-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 20px;
+  }
+  
+  .coming-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 20px;
+  }
+
+  .item1 { 
+    grid-area: newest; 
+    min-width: auto;
+    max-height: 450px;
+    display: grid;
+    justify-content: center;
+    overflow: auto;
+  }
+  .item2 { 
+      grid-area: coming; 
+      min-width: 500px;
+      min-height: 300px;
+      max-height: 300px;
+      display: grid;
+      justify-content: center;
+  }
+  .item3 { 
+      grid-area: quiz; 
+      min-width: 500px;
+      max-height: 50px;
+      line-height: 0;
+      padding: 0px;
+  }
+
+}
+
+

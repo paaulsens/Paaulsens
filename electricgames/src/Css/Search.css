@@ -1,0 +1,30 @@
+.searchbar-form{
+    border:1px solid #121212;
+    border-radius: 20px;
+    padding:4px;
+    background-color: #161616;
+  }
+  
+    .searchbar{
+      justify-self: center;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      grid-column: auto / span 12;
+      text-align: center;
+      width: auto;
+    }
+
+.sort-options{
+    grid-column: auto / span 12;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+    .sort-option{
+        margin-top: 15px;
+        background-color: #161616;
+        border-radius: 10px;
+        font-size: 13px;
+        width: auto;
+    }

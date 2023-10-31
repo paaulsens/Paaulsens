@@ -1,0 +1,55 @@
+.game{
+    height: 200px;
+    width: 160px;
+    border-radius: 10px;
+    background-size: cover;
+    margin: 20px;
+}
+
+    .game-box:hover{
+        transform: scale(1.02);
+        transition: 0.1s;
+    }
+
+.searchresults{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 10px;
+    text-align: left;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1450px) {
+    .searchresults{
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .searchresults{
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .searchresults{
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .searchresults{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .searchresults{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+    

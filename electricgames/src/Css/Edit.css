@@ -1,0 +1,78 @@
+.edit-section{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 10px;
+    text-align: center;
+}
+
+    .edit-input{
+        background-color: #121212;
+        width: 200px;
+        height: 25px;
+        font-size: 15px;
+        border-radius: 10px;
+        text-align: center;
+        border: none;
+    }
+
+        .edit-game{
+            grid-column: auto / span 8;
+        }
+            .edit-btn{
+                margin-bottom: 5px;
+                width: 50%
+            }
+
+            .add-btn{
+                width: 50%
+            }
+
+        .delete-game{
+            grid-column: auto / span 4;
+        }
+
+        .delete-confirm{
+            margin-top: 20px;
+        }
+
+.margin-top{
+    margin-top: 50px;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 1100px) {
+
+    .edit-input{
+        background-color: #121212;
+        width: 100px;
+        height: 25px;
+        font-size: 15px;
+        border-radius: 10px;
+        text-align: center;
+        border: none;
+    }
+
+}
+
+@media screen and (max-width: 640px) {
+
+    .edit-input{
+        background-color: #121212;
+        width: 100px;
+        height: 25px;
+        font-size: 15px;
+        border-radius: 10px;
+        text-align: center;
+        border: none;
+    }
+
+        .edit-game{
+            grid-column: auto / span 12;
+        }
+        
+        .delete-game{
+            grid-column: auto / span 12;
+        }
+
+}
